@@ -1,0 +1,27 @@
+# Personal / Private
+SOUL.md
+USER.md
+*档案*
+龙虾内核
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.*
+secrets.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
